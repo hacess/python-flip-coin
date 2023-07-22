@@ -1,6 +1,7 @@
 # Python Flip Coin
  simple virtual coin flipping program using Python
-
+# Screenshots
+![flip coin](/Screenshot_8.png))
 # Installation
 
 set up the project locally.
